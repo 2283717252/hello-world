@@ -10,6 +10,6 @@ scanf("%d",&width);
 volume=height*length*width;
 weight=(volume+165)/166;
 printf("volume(cubic inches):%d\n",volume);
-printf("demensional weight(pounds):%d",weight);
+
 return 0;
 } 
